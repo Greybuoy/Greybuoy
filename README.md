@@ -1,4 +1,4 @@
-<img align="center" src="https://raw.githubusercontent.com/Greybuoy/Greybuoy/main/banner.png"/>
+<img align="center" src="https://raw.githubusercontent.com/Greybuoy/Greybuoy/main/background.mp4"/>
 <h1 align="center">Hi 👋, I'm Hrishin Dey</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 <img align="right" alt= "coding" width="100" src= "https://dribbble.com/shots/16787618-Typing-guy-animation-2d-character-animation-Gif-animation">
